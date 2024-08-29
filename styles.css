@@ -1,0 +1,102 @@
+html {
+  background-color: mediumvioletred;
+  margin: 20px;
+  padding: 25px;
+}
+
+.jura-content {
+  font-family: "Jura", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1.2rem;
+  color: lightcyan;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 2px solid white;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.jura-caption {
+  font-family: "Jura", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: italic;
+  color: mediumturquoise;
+  text-align: center;
+  font-size: 1rem;
+  padding: 10px 0;
+  border-bottom: 2px solid white;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+  background-color: black;
+  margin: 0;
+  max-width: 100%;
+}
+
+#tribute-info {
+  font-family: "Jura", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.4rem;
+}
+
+a {
+  text-decoration: underline;
+  color: darksalmon;
+  font-weight: bold;
+}
+
+h2,
+h3 {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  text-shadow: 2px 2px black
+}
+
+#milestones-table {
+  display: flex;
+  flex-wrap: nowrap;
+  border-bottom: 1px solid black;
+  width: auto;
+}
+
+#milestones-table p {
+  min-width: 30%;
+  max-width: 70%;
+  font-weight: 450;
+}
+
+.jura-links {
+  font-family: "Jura", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: lightcyan;
+}
+
+#tribute-link {
+  font-family: "Jura", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: lightcyan;
+  text-decoration: underline;
+}
